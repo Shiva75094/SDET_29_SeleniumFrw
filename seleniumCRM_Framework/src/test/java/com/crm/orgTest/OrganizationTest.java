@@ -22,6 +22,10 @@ public class OrganizationTest {
 	public void deleteOrgTest() {
 		System.out.println("execute deleteOrgTest");
 	}
+	@Test(groups = "regressionTest")
+	public void updateOrgTest() {
+		System.out.println("execute updateOrgTest");
+	}
 
 
 }
