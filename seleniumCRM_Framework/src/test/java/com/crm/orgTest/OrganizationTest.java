@@ -26,6 +26,4 @@ public class OrganizationTest {
 	public void updateOrgTest() {
 		System.out.println("execute updateOrgTest");
 	}
-
-
 }
